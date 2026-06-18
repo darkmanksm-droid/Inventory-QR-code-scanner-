@@ -1,0 +1,6 @@
+{
+  "name": "ماسح الجرد",
+  "description": "تطبيق متكامل لمسح الرموز الشريطية (باركور) وإدارة جرد المستودعات محلياً وبشكل كامل دون الحاجة للاتصال بالإنترنت مع إمكانية التصدير.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

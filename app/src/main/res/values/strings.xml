@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ماسح الجرد</string>
+    <string name="scanner_stopped">الماسح متوقف</string>
+    <string name="press_start_to_scan">اضغط \"ابدأ المسح\" للبدء</string>
+    <string name="scan_from_images">مسح من الصور</string>
+    <string name="scanned_items_count">صنف %1$d تم مسح:</string>
+    <string name="recent_items">آخر %1$d صنف</string>
+    <string name="start_scanning">ابدأ المسح</string>
+    <string name="stop_scanning">إيقاف المسح</string>
+    <string name="export">تصدير</string>
+    <string name="status_stopped">متوقف</string>
+    <string name="status_active">نشط</string>
+    <string name="badge_new">جديد</string>
+    <string name="no_items_found">لا يوجد عناصر ممسوحة بعد</string>
+    <string name="delete_confirm_title">حذف العنصر</string>
+    <string name="delete_confirm_msg">هل أنت متأكد من رغبتك في حذف هذا العنصر؟</string>
+    <string name="clear_all_confirm_title">مسح كل البيانات</string>
+    <string name="clear_all_confirm_msg">هل أنت متأكد من رغبتك في مسح كافة العناصر الممسوحة؟ لا يمكن تراجع عن هذا الإجراء.</string>
+    <string name="cancel">إلغاء</string>
+    <string name="delete">حذف</string>
+    <string name="edit_item_title">تعديل بيانات الصنف</string>
+    <string name="item_name_label">اسم الصنف / الوصف</string>
+    <string name="item_quantity_label">الكمية</string>
+    <string name="save">حفظ</string>
+    <string name="camera_permission_required">صلاحية الكاميرا مطلوبة</string>
+    <string name="camera_permission_msg">يحتاج هذا التطبيق للوصول إلى الكاميرا لتمكين مسح الرموز الشريطية.</string>
+    <string name="grant_permission">منح الإذن</string>
+    <string name="manual_add">إضافة يدوية</string>
+    <string name="manual_add_title">إضافة صنف يدوياً</string>
+    <string name="barcode_label">الرمز الشريطي (باركود)</string>
+    <string name="export_success">تم تصدير البيانات بنجاح</string>
+    <string name="export_failed">فشل في تصدير البيانات</string>
+</resources>
